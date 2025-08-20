@@ -7,3 +7,4 @@ st.write('Welcome to my Streamlit app!')
 user_input = st.text_input('Enter a custom message:', 'Hello, Streamlit!') 
 # Display the customized message 
 st.write('Customized Message:', user_input)
+st.markdown("### this is a nre code")
